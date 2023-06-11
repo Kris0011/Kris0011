@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kris0011.github.io/PersonalPortfolio/](https://kris0011.github.io/PersonalPortfolio/)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Development Ideas**
 
 - 📫 How to reach me **krishp759@gmail.com**
 
