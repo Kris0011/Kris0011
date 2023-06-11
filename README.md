@@ -15,4 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kris0011&label=Profile%20views&color=0e75b6&style=flat" alt="kris0011" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
