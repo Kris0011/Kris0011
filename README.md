@@ -1,5 +1,5 @@
 # 💫 About Me:
--🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [https://kris0011.github.io/PersonalPortfolio/](https://kris0011.github.io/PersonalPortfolio/)<br><br>- 💬 Ask me about **Development Ideas**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
+-🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [https://kris0011.github.io/PersonalPortfolio/](https://kris0011.github.io/PersonalPortfolio/)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
 
 
 ## 🌐 Socials:
