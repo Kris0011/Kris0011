@@ -1,3 +1,4 @@
+![logo](https://github.com/Kris0011/Kris0011/blob/main/banner2.png)
 # 💫 About Me:
 -🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [https://personalportfolio.kris-patelpatel.repl.co/](https://personalportfolio.kris-patelpatel.repl.co/)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
 
