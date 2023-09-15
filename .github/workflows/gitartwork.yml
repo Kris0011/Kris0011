@@ -11,7 +11,6 @@ name: gitartwork from a contribution graph
        - uses: actions/checkout@v3
        - uses: jasineri/gitartwork@v1
          with:
-            # Use this username's contribution graph  
             user_name: Kris0011
             # Text on contribution graph 
             text: KRIS
