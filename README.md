@@ -5,7 +5,11 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/684004012210651146) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kris-patel-985158250/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kris__Logan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@krisgenics4404) 
+[![Discord](https://img.shields.io/badge/discord-36393e?style=for-the-badge&logo=discord&logoColor=#5865F2)](https://discord.gg/684004012210651146)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](linkedin.com/in/kris-patel-985158250/)
+[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/Kris__Logan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@krisgenics4404) 
+
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,nodejs,react,tailwind,express,mongodb,mysql,php,jquery,postman,git,githubactions,vscode,linux,arduino,netlify)](https://skillicons.dev)
