@@ -1,4 +1,5 @@
-![logo](https://github.com/Kris0011/Kris0011/blob/main/banner3.png)
+
+![gitartwork](gitartwork.svg)
 # 💫 About Me:
 -🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [https://kris-patel.is-a.dev/](https://kris-patel.is-a.dev/)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
 
