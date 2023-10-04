@@ -1,5 +1,13 @@
 
-![gitartwork](gitartwork.svg)
+<div align="center">
+  <img src="https://github.com/Kris0011/Kris0011/blob/main/krispatel2.gif" alt="Animation">
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F74687&width=500&lines=Coding+away%2C+one+keystroke+at+a+time...;Crafting+websites+with+passion+and+pixels.;Let's+connect+and+code+together!" alt="Typing SVG" /></a>
+</div>
+
+
 # 💫 About Me:
 -🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [https://kris-patel.is-a.dev/](https://kris-patel.is-a.dev/)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
 
