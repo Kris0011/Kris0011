@@ -21,7 +21,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,nodejs,react,tailwind,express,mongodb,mysql,php,jquery,postman,git,githubactions,vscode,linux,arduino,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,bootstrap,nodejs,react,nextjs,vite,tailwind,express,mongodb,mysql,php,postman,git,github,githubactions,gcp,vscode,neovim,discord,linux,vercel,netlify)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
