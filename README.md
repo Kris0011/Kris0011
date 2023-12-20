@@ -25,5 +25,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kris0011&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/></br>
 ![](./profile-3d-contrib/profile-night-green.svg)
