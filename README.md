@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
--🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [krispatel.vercel.app](https://krispatel.vercel.app)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
+-🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [krispatel.live](https://krispatel.live)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
 
 
 
