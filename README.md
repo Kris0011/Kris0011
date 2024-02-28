@@ -1,15 +1,12 @@
 
-<div align="center">
-  <img src="https://github.com/Kris0011/Kris0011/blob/main/krispatel2.gif" alt="Animation">
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F74687&width=500&lines=Coding+away%2C+one+keystroke+at+a+time...;Crafting+websites+with+passion+and+pixels.;Let's+connect+and+code+together!" alt="Typing SVG" /></a>
-</div>
 
 
-# 💫 About Me:
--🌱 I’m currently learning **ML**<br><br>-👨‍💻 All of my projects are available at [krispatel.live](https://krispatel.live)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
+
+## 💫 About Me:
+- 🌱 I’m currently learning **ML**<br>
+- 👨‍💻 Checkout my portfolio website [krispatel.live](https://krispatel.live)<br>
+- 📫 How to reach me **krishp759@gmail.com**<br>
+- ⚡ Fun fact **I think I am very innocent.**
 
 
 
@@ -20,9 +17,108 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@krisgenics4404) 
 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bootstrap,nodejs,react,nextjs,vite,tailwind,redux,express,mongodb,django,mysql,php,postman,git,github,githubactions,gcp,aws,vscode,neovim,discord,linux,vercel,netlify)](https://skillicons.dev)
+## 💻 Tech Stack:
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" title="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" title="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite" title="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++" />
+      <br>C++
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" title="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" title="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" title="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" title="PHP" />
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Cloud Platform" title="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="Amazon Web Services" title="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify" title="Netlify" />
+      <br>Netlify
+    </td>
+  </tr>
+</table>
 
 
-# 📊 GitHub Stats:
-![](./profile-3d-contrib/profile-night-green.svg)
+
+## 📊 GitHub Stats:
+ <div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" width="650" alt="Netlify" title="Netlify" />
+</div>
