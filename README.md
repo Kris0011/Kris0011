@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
--🌱 I’m currently learning **MERN Stack**<br><br>-👨‍💻 All of my projects are available at [krispatel.live](https://krispatel.live)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
+-🌱 I’m currently learning **ML**<br><br>-👨‍💻 All of my projects are available at [krispatel.live](https://krispatel.live)<br><br>- 💬 Ask me about **whatever you want**<br><br>- 📫 How to reach me **krishp759@gmail.com**<br><br>- ⚡ Fun fact **I think I am very innocent.**
 
 
 
@@ -21,7 +21,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bootstrap,nodejs,react,nextjs,vite,tailwind,redux,express,mongodb,django,mysql,php,postman,git,github,githubactions,gcp,vscode,neovim,discord,linux,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bootstrap,nodejs,react,nextjs,vite,tailwind,redux,express,mongodb,django,mysql,php,postman,git,github,githubactions,gcp,aws,vscode,neovim,discord,linux,vercel,netlify)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
