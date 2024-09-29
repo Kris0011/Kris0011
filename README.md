@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **ML**<br>
+- 🌱 I’m currently learning **Machine Learning**<br>
 - 👨‍💻 Checkout my portfolio website [krispatel.live](https://krispatel.live)<br>
 - 📫 How to reach me **krishp759@gmail.com**<br>
 - ⚡ Fun fact **I think I am very innocent.**
