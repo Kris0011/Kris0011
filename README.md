@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kris__Logan)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@krisgenics4404) 
 
-📊 **Weekly development breakdown**
+📊 **Monthly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
